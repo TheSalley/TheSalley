@@ -27,6 +27,3 @@
 ## Motto
 
 > The good seaman is known in bad weather.（惊涛骇浪，方显男儿本色。）
-
-<img src="./img/JavaScript.png" width="40"/>
-<img src="./img/Nodejs.png" width="40"/>

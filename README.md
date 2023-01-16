@@ -2,8 +2,8 @@
 
 ```javascript
 	class Person {
-		constructor() {
-			
+		constructor(name) {
+			this.name = name
 		} 
 	}
 	
@@ -19,6 +19,7 @@
 	+ `JavaScript`
 	+ `NodeJs`
 	+ `Vue2/3`
+	+ `Python`
 
 + ⭐ Hobby
 
